@@ -1,3 +1,2 @@
 # best-repo-ever
-This is a test.
-Lets see how this works!
+Here is another Test. Let's see what this does!
