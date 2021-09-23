@@ -1,2 +1,2 @@
 # best-repo-ever
-new-branch-1 Updates are found right here!
+new-branch-2 These are new updates from branch 2!
